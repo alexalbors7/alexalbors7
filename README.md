@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexalbors7
 - 👀 I’m interested in Applied Mathematics and modeling 
-- 🌱 I’m currently learning Calculus, Intro to Programming at UW
+- 🌱 I’m currently learning Front-end development and Advanced Calculus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
