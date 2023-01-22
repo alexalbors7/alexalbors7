@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexalbors7
 - 👀 I’m interested in Applied Mathematics and Computer Science.
-- 🌱 I’m currently learning Combinatorics, Probability and Advanced Calculus
+- 🌱 I’m currently learning Combinatorics, Probability and Analysis
 - 📫 How to reach me: aalbors@uw.edu
 
 <!---
