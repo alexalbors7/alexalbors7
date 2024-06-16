@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @alexalbors7
-- 👀 I’m interested in Mathematics and Computer Science.
-- 🌱 I’m currently learning Combinatorics, Probability and Analysis
+ Hi, I’m Alex, a third year undergraduate student at the University of Washington. I'm majoring in Mathematics. I like Optimization, Probability and Analysis.
 - 📫 How to reach me: aalbors@uw.edu
 
 <!---
