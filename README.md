@@ -1,4 +1,4 @@
- Hi, I’m Alex, a third year undergraduate student at the University of Washington. I'm majoring in Mathematics. I like Optimization, Probability and Analysis.
+ Hi, I’m Alex, a third year undergraduate student at the University of Washington, majoring in Mathematics. 
 - 📫 How to reach me: aalbors@uw.edu
 
 <!---
