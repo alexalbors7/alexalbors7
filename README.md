@@ -1,4 +1,4 @@
- Hi, I’m Alex, a third year undergraduate student at the University of Washington, majoring in Mathematics and minoring in Applied Mathematics. https://alexalbors7.github.io. 
+ Hi, I’m Alex, a fourth year undergraduate student at the University of Washington, majoring in Mathematics and minoring in Applied Mathematics. https://alexalbors7.github.io. 
 - 📫 How to reach me: aalbors@uw.edu
 
 <!---
